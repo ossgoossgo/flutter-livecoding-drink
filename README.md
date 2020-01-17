@@ -2,8 +2,15 @@
 
 Flutter project.
 
-UI Ref from : https://dribbble.com/shots/6784901-Kombucha/attachments
-Live Coding : https://youtu.be/WHpQ6EynCoU or Youbube search Fishball 500g
+UI Ref from : https://dribbble.com/shots/6784901-Kombucha/attachments  
+Live Coding : https://youtu.be/WHpQ6EynCoU or Youbube search Fishball 500g  
+
+In this project we learned use device_simulator and lutter_screenutil to help us easy to adjust UI  
+device_simulator：  
+https://pub.dev/packages/device_simulator  
+
+lutter_screenutil：  
+https://github.com/OpenFlutter/flutter_screenutil  
 
 
 ## Getting Started
