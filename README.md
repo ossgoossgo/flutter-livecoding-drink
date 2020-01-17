@@ -1,6 +1,10 @@
 # drink
 
-A new Flutter project.
+Flutter project.
+
+UI Ref from : https://dribbble.com/shots/6784901-Kombucha/attachments
+Live Coding : https://youtu.be/WHpQ6EynCoU or Youbube search Fishball 500g
+
 
 ## Getting Started
 
